@@ -1,0 +1,28 @@
+.intro {
+  color: green;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.important {
+  color: red;
+  font-family: Helvetica;
+  font-size: 25px;
+}
+
+.section {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.image {
+  border: 5px solid red;
+  border-radius: 25px;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin-left: 500px;
+}
