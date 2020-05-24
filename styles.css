@@ -4,17 +4,23 @@
   text-align: center;
   font-weight: bold;
   font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .important {
   color: red;
   font-family: Helvetica;
   font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .section {
   font-size: 30px;
   line-height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .image {
@@ -25,4 +31,6 @@
   width: 100px;
   display: block;
   margin-left: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
